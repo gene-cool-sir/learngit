@@ -2,4 +2,5 @@
 Git is free software.
 
 git has a mutable index called stage
+git trackks changes.
 
